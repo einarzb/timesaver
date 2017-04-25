@@ -1,0 +1,16 @@
+mvp & priortizing:
+
+1.Find a way to figure out which page you are currently on. (window.href)
+2.Find a way to figure out when you change pages (onload and onunload)
+3.Fetch the session time spent on each page.
+4.Create a timer that runs when you are on sites that user deem as productive. (react element)
+5. Timer would stop on sites user deem as unproductive
+
+final stages:
+1. Collect stat’s about multiple days, display those stats using D3 or Charts JS
+2. Create a Chrome Extension
+
+features:
+- User could decide which sites are productive and which are not.
+- User would be alerted if he spents too much time on productivity-risk sites as facebook and other time consumer.
+- Day / Night patterns. User can set time to get alerted to stop surfing (e.g from 22 pm).
